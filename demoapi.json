@@ -1,0 +1,42 @@
+[
+  {
+    "brand": "Rolex",
+    "model": "Submariner",
+    "caseMaterial": "Stainless Steel",
+    "bandMaterial": "Oystersteel",
+    "dialColor": "Black",
+    "movement": "Automatic",
+    "waterResistance": "300 meters",
+    "price": 10000
+  },
+  {
+    "brand": "Omega",
+    "model": "Seamaster",
+    "caseMaterial": "Titanium",
+    "bandMaterial": "Rubber",
+    "dialColor": "Blue",
+    "movement": "Automatic",
+    "waterResistance": "200 meters",
+    "price": 8000
+  },
+  {
+    "brand": "Tag Heuer",
+    "model": "Carrera",
+    "caseMaterial": "Stainless Steel",
+    "bandMaterial": "Leather",
+    "dialColor": "White",
+    "movement": "Quartz",
+    "waterResistance": "100 meters",
+    "price": 5000
+  },
+  {
+    "brand": "Seadadadaiko",
+    "model": "Prospex",
+    "caseMaterial": "Stainless Steel",
+    "bandMaterial": "Silicone",
+    "dialColor": "Green",
+    "movement": "Automatic",
+    "waterResistance": "200 meters",
+    "price": 1000
+  }
+]
